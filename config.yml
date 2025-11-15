@@ -1,5 +1,10 @@
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-- jekyll-remote-theme
-title: amitportal's homepage
-description: Check some of my projects here!
+  - jekyll-remote-theme
+title: "Amit Kumar's homepage"
+description: "Check some of my projects here!"
+
+# Optional: recommended markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
