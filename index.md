@@ -41,14 +41,16 @@ I’m **Amit Kumar** — a Social Architect, Data Scientist and Policy Designer 
 
 More projects: [https://github.com/amitportal?tab=repositories](https://github.com/amitportal?tab=repositories). 
 
-## Selected publications, notes & evidence of work
+## Selected publications, notes
 
 * Personal blog & reading lists: [https://amittheportal.wordpress.com/](https://amittheportal.wordpress.com/) (books, courses, essays). 
-* Samples / supporting documents referenced in CV (available on request). 
 
 ## Contact & links
 
 * Email: [k.a.m.i.t@protonmail.com](mailto:k.a.m.i.t@protonmail.com) (on CV). 
 * LinkedIn: [https://www.linkedin.com/in/amitlinks/](https://www.linkedin.com/in/amitlinks/) 
-* Blog / Reading lists: [https://amittheportal.wordpress.com/](https://amittheportal.wordpress.com/) 
+* Blog / Reading lists: [https://amittheportal.wordpress.com/](https://amittheportal.wordpress.com/)
 
+## CV
+
+You can find me CV [here](https://github.com/amitportal/amitportal.github.io/blob/main/Amit_Kumar_CV_071125.pdf)
