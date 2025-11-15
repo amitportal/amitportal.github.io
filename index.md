@@ -1,7 +1,7 @@
 ---
 title: Amit Kumar - Projects & Profile
 description: Public projects by amitportal and a brief professional profile.
------------------------------------------------------------------------------------
+---
 
 # Amit Kumar
 
@@ -52,4 +52,3 @@ More projects: [https://github.com/amitportal?tab=repositories](https://github.c
 * LinkedIn: [https://www.linkedin.com/in/amitlinks/](https://www.linkedin.com/in/amitlinks/) 
 * Blog / Reading lists: [https://amittheportal.wordpress.com/](https://amittheportal.wordpress.com/) 
 
----
