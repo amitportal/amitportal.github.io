@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Amit Portal — Projects</title>
+  <meta name="description" content="Public projects by Amit (amitportal)" />
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#38bdf8}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#071024 0%,#071a2a 100%);color:#e6eef6;margin:0;padding:32px}
+    .container{max-width:960px;margin:0 auto}
+    header{display:flex;align-items:center;gap:16px;margin-bottom:24px}
+    h1{margin:0;font-size:28px}
+    p.lead{margin:4px 0 0;color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:20px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border:1px solid rgba(255,255,255,0.04);padding:16px;border-radius:12px}
+    .card h3{margin:0 0 8px;font-size:18px}
+    .meta{font-size:13px;color:var(--muted);margin-bottom:12px}
+    a.repo-link{color:var(--accent);text-decoration:none}
+    footer{margin-top:32px;color:var(--muted);font-size:13px}
+    .langs{margin-top:8px;font-size:13px;color:var(--muted)}
+    .btn{display:inline-block;margin-top:12px;padding:8px 12px;border-radius:8px;background:rgba(56,189,248,0.08);border:1px solid rgba(56,189,248,0.12);color:var(--accent);text-decoration:none;font-weight:600}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Amit Portal</h1>
+        <p class="lead">A curated list of public projects by amitportal on GitHub.</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="grid">
+        <article class="card">
+          <h3><a class="repo-link" href="https://github.com/amitportal/language_detector" target="_blank" rel="noopener">language_detector</a></h3>
+          <div class="meta">A fully documented, cache-aware advanced_script_detector.py. Recognises 10 Indic scripts plus English, reports a confidence score, and can auto-learn high-certainty words.</div>
+          <div class="langs">Languages: Python (100%)</div>
+          <a class="btn" href="https://github.com/amitportal/language_detector" target="_blank" rel="noopener">View on GitHub</a>
+        </article>
+
+        <article class="card">
+          <h3><a class="repo-link" href="https://github.com/amitportal/similar_column_merge_tool" target="_blank" rel="noopener">similar_column_merge_tool</a></h3>
+          <div class="meta">Uses AI embeddings to detect matching columns between two CSV files and automatically merges them to resolve semantically similar column names.</div>
+          <div class="langs">Languages: Python (100%)</div>
+          <a class="btn" href="https://github.com/amitportal/similar_column_merge_tool" target="_blank" rel="noopener">View on GitHub</a>
+        </article>
+
+        <article class="card">
+          <h3><a class="repo-link" href="https://github.com/amitportal/DIU-Mapping" target="_blank" rel="noopener">DIU-Mapping</a></h3>
+          <div class="meta">Mapping utilities and scripts (project files). See repository for notebooks and utilities.</div>
+          <div class="langs">Languages: Python (91%), Batchfile (9%)</div>
+          <a class="btn" href="https://github.com/amitportal/DIU-Mapping" target="_blank" rel="noopener">View on GitHub</a>
+        </article>
+
+        <article class="card">
+          <h3><a class="repo-link" href="https://github.com/amitportal/india_internal_migration_mapping" target="_blank" rel="noopener">india_internal_migration_mapping</a></h3>
+          <div class="meta">Visualisations and mapping of internal migration in India. Contains HTML front-end and Python scripts for data processing.</div>
+          <div class="langs">Languages: HTML (77%), Python (23%)</div>
+          <a class="btn" href="https://github.com/amitportal/india_internal_migration_mapping" target="_blank" rel="noopener">View on GitHub</a>
+        </article>
+
+      </section>
+
+      <footer>
+        <p>More projects: <a class="repo-link" href="https://github.com/amitportal?tab=repositories" target="_blank" rel="noopener">github.com/amitportal</a></p>
+        <p>Last updated: 2025-11-15</p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
