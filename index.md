@@ -1,12 +1,11 @@
 ---
-
 title: Amit Kumar - Projects & Profile
-description: Public projects by Amit (amitportal) and a brief professional profile.
+description: Public projects by amitportal and a brief professional profile.
 -----------------------------------------------------------------------------------
 
-# Amit Portal
+# Amit Kumar
 
-A curated list of public projects by **amitportal** on GitHub — with a short professional profile and links to my work.
+A curated list of public projects on GitHub — with a short professional profile and links to my work.
 
 ## About (short bio)
 
@@ -54,5 +53,3 @@ More projects: [https://github.com/amitportal?tab=repositories](https://github.c
 * Blog / Reading lists: [https://amittheportal.wordpress.com/](https://amittheportal.wordpress.com/) 
 
 ---
-
-If you’d like this shorter, longer, or to emphasize different parts of the CV (publications, technical stack, or policy work) I can produce alternate versions — tell me which emphasis you prefer and I’ll update `index.md` accordingly.
