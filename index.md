@@ -7,9 +7,9 @@ description: Public projects by amitportal and a brief professional profile.
 
 A curated list of public projects on GitHub — with a short professional profile and links to my work.
 
-## About (short bio)
+## About
 
-I’m **Amit Kumar** — a Social Architect, Data Scientist and Policy Designer focused on building ethical, permanent data and institutional assets that help governments, civic organisations, and communities make better decisions. I combine systems thinking, first-principles design, and hands-on engineering to deliver scalable data architectures, GIS/mapping assets, and ML tooling — and to build the teams and processes that keep them running. (Source: my CV.) 
+I’m **Amit Kumar** — a Social Architect, Data Scientist and Policy Designer focused on building ethical, permanent data and institutional assets that help policy designers, democracy builders, civic organisations, and communities make better decisions. I combine systems thinking, first-principles design, and hands-on engineering to deliver scalable data architectures, GIS/mapping assets, and ML tooling — and to build the teams and processes that keep them running.
 
 ## Selected highlights
 
