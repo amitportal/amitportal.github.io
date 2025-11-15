@@ -1,6 +1,6 @@
 ---
 
-title: Amit Kumar — Projects & Profile
+title: Amit Kumar - Projects & Profile
 description: Public projects by Amit (amitportal) and a brief professional profile.
 -----------------------------------------------------------------------------------
 
