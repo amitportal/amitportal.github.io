@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Amit Kumar — Projects
 description: Public projects by Amit (amitportal)
 ---
