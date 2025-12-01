@@ -56,4 +56,4 @@ More projects: [https://github.com/amitportal?tab=repositories](https://github.c
 
 ## CV
 
-You can find me CV [here](https://github.com/amitportal/amitportal.github.io/blob/main/Amit_Kumar_CV_071125.pdf)
+You can find my CV [here](https://github.com/amitportal/amitportal.github.io/blob/main/Amit_Kumar_CV_071125.pdf)
