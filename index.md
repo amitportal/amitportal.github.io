@@ -37,7 +37,10 @@ I’m **Amit Kumar** — a Social Architect, Data Scientist and Policy Designer 
   Mapping utilities and notebooks used to build the party’s GIS assets and visualizations. 
 
 * [india_internal_migration_mapping](https://github.com/amitportal/india_internal_migration_mapping)
-  Visualisations and mapping of internal migration in India; includes front-end and processing scripts. 
+  Visualisations and mapping of internal migration in India; includes front-end and processing scripts.
+
+* [audiobook-creator](https://github.com/amitportal/audiobook-creator)
+  Parses ebook markdown file efficiently, splits into chapters, converts to audiobook with smart and dynamic semantic similarity-based pauses.  
 
 More projects: [https://github.com/amitportal?tab=repositories](https://github.com/amitportal?tab=repositories). 
 
