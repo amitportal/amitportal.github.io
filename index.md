@@ -23,7 +23,7 @@ I’m **Amit Kumar** — a Social Architect, Data Scientist and Policy Designer 
 * Data engineering & ML: **Python, SQL, Pandas, NumPy, scikit-learn, TensorFlow/PyTorch, SpaCy**. 
 * GIS & geospatial analysis: **GeoPandas, GDAL, Rasterio, QGIS, Google Earth Engine**. 
 * LLM & generative AI integration, model fine-tuning, and structured data extraction. 
-* Institution building, team leadership, and ethical frameworks for data use. 
+* Institution building, team leadership, and ethical frameworks for technology design and utilisation. 
 
 ## Public Projects
 
